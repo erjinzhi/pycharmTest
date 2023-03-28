@@ -133,3 +133,6 @@ elif player == computer:
     print('平局，要不再来一局')
 else:
     print('输了，不要走，洗洗手接着来，决战到天亮')
+
+
+print("哈哈哈")
